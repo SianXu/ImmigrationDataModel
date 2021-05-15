@@ -1,0 +1,661 @@
+port,portname,state,citystate
+ALC,ALCAN,AK             ,alcanak
+ANC,ANCHORAGE,AK         ,anchorageak
+BAR,BAKER AAF - BAKER ISLAND,AK,bakeraaf-bakerislandak
+DAC,DALTONS CACHE,AK     ,daltonscacheak
+PIZ,DEW STATION PT LAY DEW,AK,dewstationptlaydewak
+DTH,DUTCH HARBOR,AK      ,dutchharborak
+EGL,EAGLE,AK             ,eagleak
+FRB,FAIRBANKS,AK         ,fairbanksak
+HOM,HOMER,AK                        ,homerak
+HYD,HYDER,AK             ,hyderak
+JUN,JUNEAU,AK            ,juneauak
+5KE,KETCHIKAN,AK,ketchikanak
+KET,KETCHIKAN,AK         ,ketchikanak
+MOS,MOSES POINT INTERMEDIATE,AK,mosespointintermediateak
+NIK,NIKISKI,AK           ,nikiskiak
+NOM,NOM,AK               ,nomak
+PKC,POKER CREEK,AK       ,pokercreekak
+ORI,PORT LIONS SPB,AK,portlionsspbak
+SKA,SKAGWAY,AK           ,skagwayak
+SNP,ST. PAUL ISLAND,AK,st.paulislandak
+TKI,TOKEEN,AK,tokeenak
+WRA,WRANGELL,AK          ,wrangellak
+HSV,MADISON COUNTY - HUNTSVILLE,AL,madisoncounty-huntsvilleal
+MOB,MOBILE,AL            ,mobileal
+LIA,LITTLE ROCK,AR (BPS),littlerockar(bps)
+ROG,ROGERS ARPT,AR,rogersarptar
+DOU,DOUGLAS,AZ           ,douglasaz
+LUK,LUKEVILLE,AZ         ,lukevilleaz
+MAP,MARIPOSA AZ           ,,
+NAC,NACO,AZ              ,nacoaz
+NOG,NOGALES,AZ           ,nogalesaz
+PHO,PHOENIX,AZ           ,phoenixaz
+POR,PORTAL,AZ,portalaz
+SLU,SAN LUIS,AZ          ,sanluisaz
+SAS,SASABE,AZ            ,sasabeaz
+TUC,TUCSON,AZ            ,tucsonaz
+YUI,YUMA,AZ               ,yumaaz
+AND,ANDRADE,CA           ,andradeca
+BUR,BURBANK,CA,burbankca
+CAL,CALEXICO,CA          ,calexicoca
+CAO,CAMPO,CA              ,campoca
+FRE,FRESNO,CA            ,fresnoca
+ICP,IMPERIAL COUNTY,CA   ,imperialcountyca
+LNB,LONG BEACH,CA         ,longbeachca
+LOS,LOS ANGELES,CA       ,losangelesca
+BFL,MEADOWS FIELD - BAKERSFIELD,CA,meadowsfield-bakersfieldca
+OAK,OAKLAND,CA  ,oaklandca
+ONT,ONTARIO,CA,ontarioca
+OTM,OTAY MESA,CA          ,otaymesaca
+BLT,PACIFIC HWY. STATION,CA ,pacifichwy.stationca
+PSP,PALM SPRINGS,CA,palmspringsca
+SAC,SACRAMENTO,CA        ,sacramentoca
+SLS,SALINAS,CA (BPS),salinasca(bps)
+SDP,SAN DIEGO,CA,sandiegoca
+SFR,SAN FRANCISCO,CA     ,sanfranciscoca
+SNJ,SAN JOSE,CA          ,sanjoseca
+SLO,SAN LUIS OBISPO,CA   ,sanluisobispoca
+SLI,SAN LUIS OBISPO,CA (BPS),sanluisobispoca(bps)
+SPC,SAN PEDRO,CA         ,sanpedroca
+SYS,SAN YSIDRO,CA        ,sanysidroca
+SAA,SANTA ANA,CA         ,santaanaca
+STO,STOCKTON,CA (BPS),stocktonca(bps)
+TEC,TECATE,CA            ,tecateca
+TRV,TRAVIS-AFB,CA        ,travis-afbca
+APA,ARAPAHOE COUNTY,CO,arapahoecountyco
+ASE,ASPEN,CO #ARPT,aspenco#arpt
+COS,COLORADO SPRINGS,CO,coloradospringsco
+DEN,DENVER,CO            ,denverco
+DRO,LA PLATA - DURANGO,CO,laplata-durangoco
+BDL,BRADLEY INTERNATIONAL,CT,bradleyinternationalct
+BGC,BRIDGEPORT,CT        ,bridgeportct
+GRT,GROTON,CT            ,grotonct
+HAR,HARTFORD,CT          ,hartfordct
+NWH,NEW HAVEN,CT         ,newhavenct
+NWL,NEW LONDON,CT        ,newlondonct
+TST,NEWINGTON DATA CENTER TEST,CT,newingtondatacentertestct
+WAS,WASHINGTON DC         ,,
+DOV,DOVER AFB,DE,doverafbde
+DVD,DOVER-AFB,DE         ,dover-afbde
+WLL,WILMINGTON,DE        ,wilmingtonde
+BOC,BOCAGRANDE,FL        ,bocagrandefl
+SRQ,BRADENTON - SARASOTA,FL,bradenton-sarasotafl
+CAN,CAPE CANAVERAL,FL    ,capecanaveralfl
+DAB,DAYTONA BEACH INTERNATIONAL,FL,daytonabeachinternationalfl
+FRN,FERNANDINA,FL        ,fernandinafl
+FTL,FORT LAUDERDALE,FL   ,fortlauderdalefl
+FMY,FORT MYERS,FL        ,fortmyersfl
+FPF,FORT PIERCE,FL       ,fortpiercefl
+HUR,HURLBURT FIELD,FL,hurlburtfieldfl
+GNV,J R ALISON MUNI - GAINESVILLE,FL,jralisonmuni-gainesvillefl
+JAC,JACKSONVILLE,FL      ,jacksonvillefl
+KEY,KEY WEST,FL          ,keywestfl
+LEE,LEESBURG MUNICIPAL AIRPORT,FL,leesburgmunicipalairportfl
+MLB,MELBOURNE,FL,melbournefl
+MIA,MIAMI,FL             ,miamifl
+APF,NAPLES,FL #ARPT,naplesfl#arpt
+OPF,OPA LOCKA,FL,opalockafl
+ORL,ORLANDO,FL           ,orlandofl
+PAN,PANAMA CITY,FL       ,panamacityfl
+PEN,PENSACOLA,FL         ,pensacolafl
+PCF,PORT CANAVERAL,FL    ,portcanaveralfl
+PEV,PORT EVERGLADES,FL   ,portevergladesfl
+PSJ,PORT ST JOE,FL       ,portstjoefl
+SFB,SANFORD,FL           ,sanfordfl
+SGJ,ST AUGUSTINE ARPT,FL,staugustinearptfl
+SAU,ST AUGUSTINE,FL      ,staugustinefl
+FPR,ST LUCIE COUNTY,FL,stluciecountyfl
+SPE,ST PETERSBURG,FL     ,stpetersburgfl
+TAM,TAMPA,FL             ,tampafl
+WPB,WEST PALM BEACH,FL   ,westpalmbeachfl
+ATL,ATLANTA,GA           ,atlantaga
+BRU,BRUNSWICK,GA         ,brunswickga
+AGS,BUSH FIELD - AUGUSTA,GA,bushfield-augustaga
+SAV,SAVANNAH,GA          ,savannahga
+AGA,AGANA,GU             ,aganagu
+HHW,HONOLULU,HI          ,honoluluhi
+OGG,KAHULUI - MAUI,HI,kahului-mauihi
+KOA,KEAHOLE-KONA,HI      ,keahole-konahi
+LIH,LIHUE,HI             ,lihuehi
+CID,CEDAR RAPIDS/IOWA CITY,IA,cedarrapids/iowacityia
+DSM,DES MOINES,IA,desmoinesia
+BOI,AIR TERM. (GOWEN FLD) BOISE,ID,airterm.(gowenfld)boiseid
+EPI,EASTPORT,ID          ,eastportid
+IDA,FANNING FIELD - IDAHO FALLS,ID,fanningfield-idahofallsid
+PTL,PORTHILL,ID          ,porthillid
+SPI,CAPITAL - SPRINGFIELD,IL,capital-springfieldil
+CHI,CHICAGO,IL           ,chicagoil
+DPA,DUPAGE COUNTY,IL,dupagecountyil
+PIA,GREATER PEORIA,IL,greaterpeoriail
+RFD,GREATER ROCKFORD,IL,greaterrockfordil
+UGN,MEMORIAL - WAUKEGAN,IL,memorial-waukeganil
+GAR,GARY,IN              ,garyin
+HMM,HAMMOND,IN           ,hammondin
+INP,INDIANAPOLIS,IN      ,indianapolisin
+MRL,MERRILLVILLE,IN      ,merrillvillein
+SBN,SOUTH BEND,IN,southbendin
+ICT,MID-CONTINENT - WITCHITA,KS,mid-continent-witchitaks
+LEX,BLUE GRASS - LEXINGTON,KY,bluegrass-lexingtonky
+LOU,LOUISVILLE,KY        ,louisvilleky
+BTN,BATON ROUGE,LA       ,batonrougela
+LKC,LAKE CHARLES,LA      ,lakecharlesla
+LAK,LAKE CHARLES,LA (BPS),lakecharlesla(bps)
+MLU,MONROE,LA,monroela
+MGC,MORGAN CITY,LA       ,morgancityla
+NOL,NEW ORLEANS,LA       ,neworleansla
+BOS,BOSTON,MA            ,bostonma
+GLO,GLOUCESTER,MA        ,gloucesterma
+BED,HANSCOM FIELD - BEDFORD,MA,hanscomfield-bedfordma
+LYN,LYNDEN,WA            ,lyndenwa
+ADW,ANDREWS AFB,MD,andrewsafbmd
+BAL,BALTIMORE,MD         ,baltimoremd
+MKG,MUSKEGON,MD,muskegonmd
+PAX,PATUXENT RIVER,MD    ,patuxentrivermd
+BGM,BANGOR,ME            ,bangorme
+BOO,BOOTHBAY HARBOR,ME   ,boothbayharborme
+BWM,BRIDGEWATER,ME       ,bridgewaterme
+BCK,BUCKPORT,ME          ,buckportme
+CLS,CALAIS,ME   ,calaisme
+CRB,CARIBOU,ME           ,cariboume
+COB,COBURN GORE,ME       ,coburngoreme
+EST,EASTCOURT,ME         ,eastcourtme
+EPT,EASTPORT MUNICIPAL,ME,eastportmunicipalme
+EPM,EASTPORT,ME          ,eastportme
+FOR,FOREST CITY,ME       ,forestcityme
+FTF,FORT FAIRFIELD,ME    ,fortfairfieldme
+FTK,FORT KENT,ME         ,fortkentme
+HML,HAMIIN,ME            ,hamiinme
+HTM,HOULTON,ME           ,houltonme
+JKM,JACKMAN,ME           ,jackmanme
+KAL,KALISPEL,MT          ,kalispelmt
+LIM,LIMESTONE,ME         ,limestoneme
+LUB,LUBEC,ME             ,lubecme
+MAD,MADAWASKA,ME         ,madawaskame
+POM,PORTLAND,ME          ,portlandme
+RGM,RANGELEY,ME (BPS),rangeleyme(bps)
+SBR,SOUTH BREWER,ME      ,southbrewerme
+SRL,ST AURELIE,ME        ,staurelieme
+SPA,ST PAMPILE,ME        ,stpampileme
+VNB,VAN BUREN,ME         ,vanburenme
+VCB,VANCEBORO,ME         ,vanceborome
+AGN,ALGONAC,MI           ,algonacmi
+ALP,ALPENA,MI            ,alpenami
+BCY,BAY CITY,MI          ,baycitymi
+DET,DETROIT,MI           ,detroitmi
+GRP,GRAND RAPIDS,MI,grandrapidsmi
+GRO,GROSSE ISLE,MI       ,grosseislemi
+ISL,ISLE ROYALE,MI       ,isleroyalemi
+MRC,MARINE CITY,MI       ,marinecitymi
+MRY,MARYSVILLE,MI        ,marysvillemi
+PTK,OAKLAND COUNTY - PONTIAC,MI,oaklandcounty-pontiacmi
+PHU,PORT HURON,MI        ,porthuronmi
+RBT,ROBERTS LANDING,MI   ,robertslandingmi
+SAG,SAGINAW,MI           ,saginawmi
+SSM,SAULT STE. MARIE,MI  ,saultste.mariemi
+SCL,ST CLAIR,MI          ,stclairmi
+YIP,WILLOW RUN - YPSILANTI,MI,willowrun-ypsilantimi
+BAU,BAUDETTE,MN          ,baudettemn
+CAR,CARIBOU MUNICIPAL AIRPORT,MN,cariboumunicipalairportmn
+GTF,Collapsed into INT,MN,collapsedintointmn
+INL,Collapsed into INT,MN,collapsedintointmn
+CRA,CRANE LAKE,MN        ,cranelakemn
+MIC,CRYSTAL MUNICIPAL AIRPORT,MN,crystalmunicipalairportmn
+DUL,DULUTH,MN            ,duluthmn
+ELY,ELY,MN               ,elymn
+GPM,GRAND PORTAGE,MN     ,grandportagemn
+SVC,GRANT COUNTY - SILVER CITY,MN,grantcounty-silvercitymn
+INT,INTL FALLS,MN      ,intlfallsmn
+LAN,LANCASTER,MN         ,lancastermn
+MSP,MINN./ST PAUL,MN     ,minn./stpaulmn
+LIN,NORTHERN SVC CENTER,MN   ,northernsvccentermn
+NOY,NOYES,MN             ,noyesmn
+PIN,PINE CREEK,MN        ,pinecreekmn
+48Y,PINECREEK BORDER ARPT,MN,pinecreekborderarptmn
+RAN,RAINER,MN            ,rainermn
+RST,ROCHESTER,MN,rochestermn
+ROS,ROSEAU,MN            ,roseaumn
+SPM,ST PAUL,MN           ,stpaulmn
+WSB,WARROAD INTL SPB,MN,warroadintlspbmn
+WAR,WARROAD,MN           ,warroadmn
+KAN,KANSAS CITY,MO       ,kansascitymo
+SGF,SPRINGFIELD-BRANSON,MO,springfield-bransonmo
+STL,ST LOUIS,MO          ,stlouismo
+WHI,WHITETAIL,MT         ,whitetailmt
+WHM,WILD HORSE,MT        ,wildhorsemt
+GPT,BILOXI REGIONAL,MS,biloxiregionalms
+GTR,GOLDEN TRIANGLE LOWNDES CNTY,MS,goldentrianglelowndescntyms
+GUL,GULFPORT,MS          ,gulfportms
+PAS,PASCAGOULA,MS        ,pascagoulams
+JAN,THOMPSON FIELD - JACKSON,MS,thompsonfield-jacksonms
+BIL,BILLINGS,MT          ,billingsmt
+BTM,BUTTE,MT             ,buttemt
+CHF,CHIEF MT,MT          ,chiefmtmt
+CTB,CUT BANK MUNICIPAL,MT,cutbankmunicipalmt
+CUT,CUT BANK,MT          ,cutbankmt
+DLB,DEL BONITA,MT        ,delbonitamt
+EUR,EUREKA,MT (BPS),eurekamt(bps)
+BZN,GALLATIN FIELD - BOZEMAN,MT,gallatinfield-bozemanmt
+FCA,GLACIER NATIONAL PARK,MT,glaciernationalparkmt
+GGW,GLASGOW,MT           ,glasgowmt
+GRE,GREAT FALLS,MT       ,greatfallsmt
+HVR,HAVRE,MT             ,havremt
+HEL,HELENA,MT            ,helenamt
+LWT,LEWISTON,MT          ,lewistonmt
+MGM,MORGAN,MT            ,morganmt
+OPH,OPHEIM,MT            ,opheimmt
+PIE,PIEGAN,MT            ,pieganmt
+RAY,RAYMOND,MT           ,raymondmt
+ROO,ROOSVILLE,MT         ,roosvillemt
+SCO,SCOBEY,MT            ,scobeymt
+SWE,SWEETGTASS,MT        ,sweetgtassmt
+TRL,TRIAL CREEK,MT       ,trialcreekmt
+TUR,TURNER,MT            ,turnermt
+WCM,WILLOW CREEK,MT      ,willowcreekmt
+CLT,CHARLOTTE,NC         ,charlottenc
+FAY,FAYETTEVILLE,NC,fayettevillenc
+MRH,MOREHEAD CITY,NC     ,moreheadcitync
+FOP,MORRIS FIELDS AAF,NC,morrisfieldsaafnc
+GSO,PIEDMONT TRIAD INTL AIRPORT,NC,piedmonttriadintlairportnc
+RDU,RALEIGH/DURHAM,NC    ,raleigh/durhamnc
+SSC,SHAW AFB - SUMTER,NC,shawafb-sumternc
+WIL,WILMINGTON,NC        ,wilmingtonnc
+AMB,AMBROSE,ND           ,ambrosend
+ANT,ANTLER,ND            ,antlernd
+CRY,CARBURY,ND           ,carburynd
+DNS,DUNSEITH,ND          ,dunseithnd
+FAR,FARGO,ND             ,fargond
+FRT,FORTUNA,ND           ,fortunand
+GRF,GRAND FORKS,ND       ,grandforksnd
+HNN,HANNAH,ND            ,hannahnd
+HNS,HANSBORO,ND          ,hansborond
+MAI,MAIDA,ND             ,maidand
+MND,MINOT,ND             ,minotnd
+NEC,NECHE,ND             ,nechend
+NOO,NOONAN,ND            ,noonannd
+NRG,NORTHGATE,ND         ,northgatend
+PEM,PEMBINA,ND           ,pembinand
+SAR,SARLES,ND            ,sarlesnd
+SHR,SHERWOOD,ND          ,sherwoodnd
+SJO,ST JOHN,ND           ,stjohnnd
+WAL,WALHALLA,ND          ,walhalland
+WHO,WESTHOPE,ND          ,westhopend
+WND,WILLISTON,ND         ,willistonnd
+OMA,OMAHA,NE             ,omahane
+LEB,LEBANON,NH           ,lebanonnh
+MHT,MANCHESTER,NH,manchesternh
+PNH,PITTSBURG,NH         ,pittsburgnh
+PSM,PORTSMOUTH,NH        ,portsmouthnh
+BYO,BAYONNE,NJ           ,bayonnenj
+CNJ,CAMDEN,NJ            ,camdennj
+HOB,HOBOKEN,NJ           ,hobokennj
+JER,JERSEY CITY,NJ       ,jerseycitynj
+WRI,MC GUIRE AFB - WRIGHTSOWN,NJ,mcguireafb-wrightsownnj
+MMU,MORRISTOWN,NJ,morristownnj
+NEW,NEWARK/TETERBORO,NJ  ,newark/teterboronj
+PER,PERTH AMBOY,NJ       ,perthamboynj
+ACY,POMONA FIELD - ATLANTIC CITY,NJ,pomonafield-atlanticcitynj
+ALA,ALAMAGORDO,NM (BPS),alamagordonm(bps)
+ABQ,ALBUQUERQUE,NM       ,albuquerquenm
+ANP,ANTELOPE WELLS,NM    ,antelopewellsnm
+CRL,CARLSBAD,NM          ,carlsbadnm
+COL,COLUMBUS,NM          ,columbusnm
+CDD,CRANE LAKE - ST. LOUIS CNTY,NM,cranelake-st.louiscntynm
+DNM,DEMING,NM (BPS),demingnm(bps)
+LAS,LAS CRUCES,NM        ,lascrucesnm
+LOB,LORDSBURG,NM (BPS),lordsburgnm(bps)
+RUI,RUIDOSO,NM,ruidosonm
+STR,SANTA TERESA,NM      ,santateresanm
+RNO,CANNON INTL - RENO/TAHOE,NV,cannonintl-reno/tahoenv
+FLX,FALLON MUNICIPAL AIRPORT,NV,fallonmunicipalairportnv
+LVG,LAS VEGAS,NV         ,lasvegasnv
+REN,RENO,NV              ,renonv
+ALB,ALBANY,NY            ,albanyny
+AXB,ALEXANDRIA BAY,NY    ,alexandriabayny
+BUF,BUFFALO,NY           ,buffalony
+CNH,CANNON CORNERS,NY,cannoncornersny
+CAP,CAPE VINCENT,NY      ,capevincentny
+CHM,CHAMPLAIN,NY         ,champlainny
+CHT,CHATEAUGAY,NY        ,chateaugayny
+CLA,CLAYTON,NY           ,claytonny
+FTC,FORT COVINGTON,NY    ,fortcovingtonny
+LAG,LA GUARDIA,NY        ,laguardiany
+LEW,LEWISTON,NY          ,lewistonny
+MAS,MASSENA,NY           ,massenany
+MAG,MCGUIRE AFB,NY       ,mcguireafbny
+MOO,MOORES,NY            ,mooresny
+MRR,MORRISTOWN,NY        ,morristownny
+NYC,NEW YORK,NY          ,newyorkny
+NIA,NIAGARA FALLS,NY     ,niagarafallsny
+OGD,OGDENSBURG,NY        ,ogdensburgny
+OSW,OSWEGO,NY            ,oswegony
+ELM,REGIONAL ARPT - HORSEHEAD,NY,regionalarpt-horseheadny
+ROC,ROCHESTER,NY         ,rochesterny
+ROU,ROUSES POINT,NY      ,rousespointny
+SWF,STEWART - ORANGE CNTY,NY,stewart-orangecntyny
+SYR,SYRACUSE,NY          ,syracuseny
+THO,THOUSAND ISLAND BRIDGE,NY,thousandislandbridgeny
+TRO,TROUT RIVER,NY       ,troutriverny
+WAT,WATERTOWN,NY         ,watertownny
+HPN,WESTCHESTER - WHITE PLAINS,NY,westchester-whiteplainsny
+WRB,WHIRLPOOL BRIDGE,NY,whirlpoolbridgeny
+YOU,YOUNGSTOWN,NY        ,youngstownny
+AKR,AKRON,OH             ,akronoh
+ATB,ASHTABULA,OH         ,ashtabulaoh
+CIN,CINCINNATI,OH        ,cincinnatioh
+CLE,CLEVELAND,OH         ,clevelandoh
+CLM,COLUMBUS,OH          ,columbusoh
+LOR,LORAIN,OH            ,lorainoh
+MBO,MARBLE HEADS,OH      ,marbleheadsoh
+SDY,SANDUSKY,OH          ,sanduskyoh
+TOL,TOLEDO,OH            ,toledooh
+OKC,OKLAHOMA CITY,OK     ,oklahomacityok
+TUL,TULSA,OK,tulsaok
+AST,ASTORIA,OR           ,astoriaor
+COO,COOS BAY,OR          ,coosbayor
+HIO,HILLSBORO,OR,hillsboroor
+MED,MEDFORD,OR           ,medfordor
+NPT,NEWPORT,OR           ,newportor
+POO,PORTLAND,OR          ,portlandor
+PUT,PUT-IN-BAY,OH        ,put-in-bayoh
+RDM,ROBERTS FIELDS - REDMOND,OR,robertsfields-redmondor
+ERI,ERIE,PA              ,eriepa
+MDT,HARRISBURG,PA,harrisburgpa
+HSB,HARRISONBURG,PA      ,harrisonburgpa
+PHI,PHILADELPHIA,PA      ,philadelphiapa
+PIT,PITTSBURG,PA         ,pittsburgpa
+AGU,AGUADILLA,PR         ,aguadillapr
+BQN,BORINQUEN - AGUADILLO,PR,borinquen-aguadillopr
+JCP,CULEBRA - BENJAMIN RIVERA,PR,culebra-benjaminriverapr
+ENS,ENSENADA,PR          ,ensenadapr
+FAJ,FAJARDO,PR           ,fajardopr
+HUM,HUMACAO,PR           ,humacaopr
+JOB,JOBOS,PR             ,jobospr
+MAY,MAYAGUEZ,PR          ,mayaguezpr
+PON,PONCE,PR             ,poncepr
+PSE,PONCE-MERCEDITA,PR,ponce-merceditapr
+SAJ,SAN JUAN,PR          ,sanjuanpr
+VQS,VIEQUES-ARPT,PR,vieques-arptpr
+PRO,PROVIDENCE,RI        ,providenceri
+PVD,THEODORE FRANCIS - WARWICK,RI,theodorefrancis-warwickri
+CHL,CHARLESTON,SC        ,charlestonsc
+CAE,COLUMBIA,SC #ARPT,columbiasc#arpt
+GEO,GEORGETOWN,SC        ,georgetownsc
+GSP,GREENVILLE,SC,greenvillesc
+GRR,GREER,SC,greersc
+MYR,MYRTLE BEACH,SC,myrtlebeachsc
+SPF,BLACK HILLS SPEARFISH,SD,blackhillsspearfishsd
+HON,HOWES REGIONAL ARPT - HURON,SD,howesregionalarpt-huronsd
+SAI,SAIPAN,SPN           ,saipanspn
+TYS,MC GHEE TYSON - ALCOA,TN,mcgheetyson-alcoatn
+MEM,MEMPHIS,TN           ,memphistn
+NSV,NASHVILLE,TN         ,nashvilletn
+TRI,TRI CITY ARPT,TN,tricityarpttn
+ADS,ADDISON AIRPORT- ADDISON,TX,addisonairport-addisontx
+ADT,AMISTAD DAM,TX       ,amistaddamtx
+ANZ,ANZALDUAS,TX,anzalduastx
+AUS,AUSTIN,TX            ,austintx
+BEA,BEAUMONT,TX          ,beaumonttx
+BBP,BIG BEND PARK,TX (BPS),bigbendparktx(bps)
+SCC,BP SPEC COORD. CTR,TX,bpspeccoord.ctrtx
+BTC,BP TACTICAL UNIT,TX   ,bptacticalunittx
+BOA,BRIDGE OF AMERICAS,TX,bridgeofamericastx
+BRO,BROWNSVILLE,TX       ,brownsvilletx
+CRP,CORPUS CHRISTI,TX    ,corpuschristitx
+DAL,DALLAS,TX            ,dallastx
+DLR,DEL RIO,TX           ,delriotx
+DNA,DONNA,TX,donnatx
+EGP,EAGLE PASS,TX        ,eaglepasstx
+ELP,EL PASO,TX           ,elpasotx
+FAB,FABENS,TX            ,fabenstx
+FAL,FALCON HEIGHTS,TX    ,falconheightstx
+FTH,FORT HANCOCK,TX      ,forthancocktx
+AFW,FORT WORTH ALLIANCE,TX,fortworthalliancetx
+FPT,FREEPORT,TX          ,freeporttx
+GAL,GALVESTON,TX         ,galvestontx
+HLG,HARLINGEN,TX         ,harlingentx
+HID,HIDALGO,TX           ,hidalgotx
+HOU,HOUSTON,TX           ,houstontx
+SGR,HULL FIELD SUGAR LAND ARPT,TX,hullfieldsugarlandarpttx
+LLB,JUAREZ-LINCOLN BRIDGE,TX,juarez-lincolnbridgetx
+LCB,LAREDO COLUMBIA BRIDGE,TX,laredocolumbiabridgetx
+LRN,LAREDO NORTH,TX      ,laredonorthtx
+LAR,LAREDO,TX            ,laredotx
+LSE,LOS EBANOS,TX        ,losebanostx
+IND,LOS INDIOS,TX,losindiostx
+LOI,LOS INDIOS,TX        ,losindiostx
+MRS,MARFA,TX (BPS),marfatx(bps)
+MCA,MCALLEN,TX           ,mcallentx
+MAF,ODESSA REGIONAL,TX,odessaregionaltx
+PDN,"PASO DEL NORTE,TX     ",,
+PBB,PEACE BRIDGE,NY      ,peacebridgeny
+PHR,PHARR,TX             ,pharrtx
+PAR,PORT ARTHUR,TX       ,portarthurtx
+ISB,PORT ISABEL,TX       ,portisabeltx
+POE,PORT OF EL PASO,TX   ,portofelpasotx
+PRE,PRESIDIO,TX          ,presidiotx
+PGR,PROGRESO,TX          ,progresotx
+RIO,RIO GRANDE CITY,TX   ,riograndecitytx
+ROM,ROMA,TX              ,romatx
+SNA,SAN ANTONIO,TX       ,sanantoniotx
+SNN,SANDERSON,TX         ,sandersontx
+VIB,VETERAN INTL BRIDGE,TX,veteranintlbridgetx
+YSL,YSLETA,TX            ,ysletatx
+CHA,CHARLOTTE AMALIE,VI  ,charlotteamalievi
+CHR,CHRISTIANSTED,VI     ,christianstedvi
+CRU,CRUZ BAY ST JOHN,VI ,cruzbaystjohnvi
+FRK,FREDERIKSTED,VI      ,frederikstedvi
+STT,ST THOMAS,VI         ,stthomasvi
+LGU,CACHE AIRPORT - LOGAN,UT,cacheairport-loganut
+SLC,SALT LAKE CITY,UT    ,saltlakecityut
+CHO,ALBEMARLE CHARLOTTESVILLE,VA,albemarlecharlottesvilleva
+DAA,DAVISON AAF - FAIRFAX CNTY,VA,davisonaaf-fairfaxcntyva
+HOP,HOPEWELL,VA          ,hopewellva
+HEF,MANASSAS,VA #ARPT,manassasva#arpt
+NWN,NEWPORT,VA           ,newportva
+NOR,NORFOLK,VA           ,norfolkva
+RCM,RICHMOND,VA          ,richmondva
+ABS,ALBURG SPRINGS,VT    ,alburgspringsvt
+ABG,ALBURG,VT            ,alburgvt
+BEB,BEEBE PLAIN,VT       ,beebeplainvt
+BEE,BEECHER FALLS,VT     ,beecherfallsvt
+BRG,BURLINGTON,VT        ,burlingtonvt
+CNA,CANAAN,VT            ,canaanvt
+DER,DERBY LINE,VT (I-91) ,derbylinevt(i-91)
+DLV,DERBY LINE,VT (RT. 5),derbylinevt(rt.5)
+ERC,EAST RICHFORD,VT     ,eastrichfordvt
+HIG,HIGHGATE SPRINGS,VT  ,highgatespringsvt
+MOR,MORSES LINE,VT       ,morseslinevt
+NPV,NEWPORT,VT           ,newportvt
+NRT,NORTH TROY,VT        ,northtroyvt
+NRN,NORTON,VT            ,nortonvt
+PIV,PINNACLE ROAD,VT     ,pinnacleroadvt
+RIF,RICHFORT,VT          ,richfortvt
+STA,ST ALBANS,VT         ,stalbansvt
+SWB,SWANTON,VT (BP - SECTOR HQ),swantonvt(bp-sectorhq)
+WBE,WEST BERKSHIRE,VT    ,westberkshirevt
+ABE,ABERDEEN,WA          ,aberdeenwa
+ANA,ANACORTES,WA         ,anacorteswa
+BEL,BELLINGHAM,WA        ,bellinghamwa
+BLI,BELLINGHAM,WASHINGTON #INTL,bellinghamwashington#intl
+BLA,BLAINE,WA            ,blainewa
+BWA,BOUNDARY,WA          ,boundarywa
+CUR,CURLEW,WA (BPS),curlewwa(bps)
+DVL,DANVILLE,WA          ,danvillewa
+EVE,EVERETT,WA           ,everettwa
+FER,FERRY,WA             ,ferrywa
+FRI,FRIDAY HARBOR,WA     ,fridayharborwa
+FWA,FRONTIER,WA          ,frontierwa
+KLM,KALAMA,WA            ,kalamawa
+LAU,LAURIER,WA           ,laurierwa
+LON,LONGVIEW,WA          ,longviewwa
+MET,METALINE FALLS,WA    ,metalinefallswa
+MWH,MOSES LAKE GRANT COUNTY ARPT,WA,moseslakegrantcountyarptwa
+NEA,NEAH BAY,WA          ,neahbaywa
+NIG,NIGHTHAWK,WA         ,nighthawkwa
+OLY,OLYMPIA,WA           ,olympiawa
+ORO,OROVILLE,WA          ,orovillewa
+PWB,PASCO,WA             ,pascowa
+PIR,POINT ROBERTS,WA     ,pointrobertswa
+PNG,PORT ANGELES,WA      ,portangeleswa
+PTO,PORT TOWNSEND,WA     ,porttownsendwa
+SEA,SEATTLE,WA           ,seattlewa
+SPO,SPOKANE,WA           ,spokanewa
+SUM,SUMAS,WA             ,sumaswa
+TAC,TACOMA,WA            ,tacomawa
+PSC,TRI-CITIES - PASCO,WA,tri-cities-pascowa
+VAN,VANCOUVER,WA         ,vancouverwa
+AGM,ALGOMA,WI            ,algomawi
+BAY,BAYFIELD,WI          ,bayfieldwi
+GRB,GREEN BAY,WI         ,greenbaywi
+MNW,MANITOWOC,WI         ,manitowocwi
+MIL,MILWAUKEE,WI         ,milwaukeewi
+MSN,TRUAX FIELD - DANE COUNTY,WI,truaxfield-danecountywi
+CHS,CHARLESTON,WV        ,charlestonwv
+CLK,CLARKSBURG,WV        ,clarksburgwv
+BLF,MERCER COUNTY,WV,mercercountywv
+CSP,CASPER,WY            ,casperwy
+XXX,NOT REPORTED/UNKNOWN   ,,
+888,UNIDENTIFED AIR / SEAPORT,,
+UNK,UNKNOWN POE           ,,
+CLG,CALGARY,CANADA       ,calgarycanada
+EDA,EDMONTON,CANADA      ,edmontoncanada
+YHC,HAKAI PASS,CANADA,hakaipasscanada
+HAL,Halifax NS,Canada   ,halifaxnscanada
+MON,MONTREAL,CANADA      ,montrealcanada
+OTT,OTTAWA,CANADA        ,ottawacanada
+YXE,SASKATOON,CANADA,saskatooncanada
+TOR,TORONTO,CANADA       ,torontocanada
+VCV,VANCOUVER,CANADA     ,vancouvercanada
+VIC,VICTORIA,CANADA      ,victoriacanada
+WIN,WINNIPEG,CANADA      ,winnipegcanada
+AMS,AMSTERDAM-SCHIPHOL,NETHERLANDS,amsterdam-schipholnetherlands
+ARB,ARUBA,NETH ANTILLES  ,arubanethantilles
+BAN,BANKOK,THAILAND      ,bankokthailand
+BEI,BEICA #ARPT,ETHIOPIA,beica#arptethiopia
+PEK,BEIJING CAPITAL INTL,PRC,beijingcapitalintlprc
+BDA,KINDLEY FIELD,BERMUDA,kindleyfieldbermuda
+BOG,BOGOTA EL DORADO #ARPT,COLOMBIA,bogotaeldorado#arptcolombia
+EZE,BUENOS AIRES MINISTRO PIST,ARGENTINA,buenosairesministropistargentina
+CUN,CANCUN,MEXICO,cancunmexico
+CRQ,CARAVELAS BA #ARPT,BRAZIL,caravelasba#arptbrazil
+MVD,CARRASCO,URUGUAY,carrascouruguay
+DUB,DUBLIN,IRELAND       ,dublinireland
+FOU,FOUGAMOU #ARPT,GABON,fougamou#arptgabon
+FBA,FREEPORT,BAHAMAS      ,freeportbahamas
+MTY,GEN M. ESCOBEDO Monterrey,MX,genm.escobedomonterreymx
+HMO,GEN PESQUEIRA GARCIA,MX,genpesqueiragarciamx
+GCM,GRAND CAYMAN,CAYMAN ISLAND,grandcaymancaymanisland
+GDL,GUADALAJARA MIGUEL HIDAL,MX,guadalajaramiguelhidalmx
+HAM,HAMILTON,BERMUDA     ,hamiltonbermuda
+ICN,INCHON,SEOUL KOREA,inchonseoulkorea
+IWA,INVALID - IWAKUNI,JAPAN,invalid-iwakunijapan
+CND,KOGALNICEANU,ROMANIA,kogalniceanuromania
+LAH,LABUHA ARPT,INDONESIA,labuhaarptindonesia
+DUR,LOUIS BOTHA,SOUTH AFRICA,louisbothasouthafrica
+MAL,MANGOLE ARPT,INDONESIA,mangolearptindonesia
+MDE,MEDELLIN,COLOMBIA,medellincolombia
+MEX,JUAREZ INTL MEXICO CITY,MX,juarezintlmexicocitymx
+LHR,MIDDLESEX,ENGLAND,middlesexengland
+NBO,NAIROBI,KENYA        ,nairobikenya
+NAS,NASSAU,BAHAMAS       ,nassaubahamas
+NCA,NORTH CAICOS,TURK & CAIMAN,northcaicosturk&caiman
+PTY,OMAR TORRIJOS,PANAMA,omartorrijospanama
+SPV,PAPUA,NEW GUINEA,papuanewguinea
+UIO,QUITO (MARISCAL SUCR),ECUADOR,quito(mariscalsucr)ecuador
+RIT,ROME,ITALY           ,romeitaly
+SNO,SAKON NAKHON #ARPT,THAILAND,sakonnakhon#arptthailand
+SLP,SAN LUIS POTOSI #ARPT,MEXICO,sanluispotosi#arptmexico
+SAN,SAN SALVADOR,EL SALVADOR,sansalvadorelsalvador
+SRO,SANTANA RAMOS #ARPT,COLOMBIA,santanaramos#arptcolombia
+GRU,GUARULHOS INTL SAO PAULO,BRAZIL,guarulhosintlsaopaulobrazil
+SHA,SHANNON,IRELAND      ,shannonireland
+HIL,SHILLAVO,ETHIOPIA,shillavoethiopia
+TOK,TOROKINA #ARPT PAPUA,NEW GUINEA,torokina#arptpapuanewguinea
+VER,VERACRUZ,MEXICO,veracruzmexico
+LGW,WEST SUSSEX,ENGLAND  ,westsussexengland
+ZZZ,MEXICO Land (Banco de Mexico) ,,
+CHN,No PORT Code (CHN),,
+CNC,CANNON CORNERS,NY,cannoncornersny
+MAA,Abu Dhabi,,
+AG0,MAGNOLIA,AR,magnoliaar
+BHM,BAR HARBOR,ME,barharborme
+BHX,BIRMINGHAM,AL,birminghamal
+CAK,AKRON,OH,akronoh
+FOK,SUFFOLK COUNTY,NY,suffolkcountyny
+LND,LANDER,WY,landerwy
+MAR,MARFA,TX,marfatx
+MLI,MOLINE,IL,molineil
+RIV,RIVERSIDE,CA,riversideca
+RME,ROME,NY,romeny
+VNY,VAN NUYS,CA,vannuysca
+YUM,YUMA,AZ,yumaaz
+FRG,Collapsed (FOK) 06/15,,
+HRL,Collapsed (HLG) 06/15,,
+ISP,Collapsed (FOK) 06/15,,
+JSJ,Collapsed (SAJ) 06/15,,
+BUS,Collapsed (BUF) 06/15,,
+IAG,Collapsed (NIA) 06/15,,
+PHN,Collapsed (PHU) 06/15,,
+STN,Collapsed (STR) 06/15,,
+VMB,Collapsed (VNB) 06/15,,
+T01,Collapsed (SEA) 06/15,,
+PHF,No PORT Code (PHF),,
+DRV,No PORT Code (DRV),,
+FTB,No PORT Code (FTB),,
+GAC,No PORT Code (GAC),,
+GMT,No PORT Code (GMT),,
+JFA,No PORT Code (JFA),,
+JMZ,No PORT Code (JMZ),,
+NC8,No PORT Code (NC8),,
+NYL,No PORT Code (NYL),,
+OAI,No PORT Code (OAI),,
+PCW,No PORT Code (PCW),,
+WA5,No PORT Code (WAS),,
+WTR,No PORT Code (WTR),,
+X96,No PORT Code (X96),,
+XNA,No PORT Code (XNA),,
+YGF,No PORT Code (YGF),,
+5T6,No PORT Code (5T6),,
+060,No PORT Code (60),,
+SP0,No PORT Code (SP0),,
+W55,No PORT Code (W55),,
+X44,No PORT Code (X44),,
+AUH,No PORT Code (AUH),,
+RYY,No PORT Code (RYY),,
+SUS,No PORT Code (SUS),,
+74S,No PORT Code (74S),,
+ATW,No PORT Code (ATW),,
+CPX,No PORT Code (CPX),,
+MTH,No PORT Code (MTH),,
+PFN,No PORT Code (PFN),,
+SCH,No PORT Code (SCH),,
+ASI,No PORT Code (ASI),,
+BKF,No PORT Code (BKF),,
+DAY,No PORT Code (DAY),,
+Y62,No PORT Code (Y62),,
+AG,,No PORT Code (AG),
+BCM,No PORT Code (BCM),,
+DEC,No PORT Code (DEC),,
+PLB,No PORT Code (PLB),,
+CXO,No PORT Code (CXO),,
+JBQ,No PORT Code (JBQ),,
+JIG,No PORT Code (JIG),,
+OGS,No PORT Code (OGS),,
+TIW,No PORT Code (TIW),,
+OTS,No PORT Code (OTS),,
+AMT,No PORT Code (AMT),,
+EGE,No PORT Code (EGE),,
+GPI,No PORT Code (GPI),,
+NGL,No PORT Code (NGL),,
+OLM,No PORT Code (OLM),,
+.GA,No PORT Code (.GA),,
+CLX,No PORT Code (CLX),,
+CP ,No PORT Code (CP),,
+FSC,No PORT Code (FSC),,
+NK ,No PORT Code (NK),,
+ADU ,No PORT Code (ADU),,
+AKT ,No PORT Code (AKT),,
+LIT ,No PORT Code (LIT),,
+A2A ,No PORT Code (A2A),,
+OSN ,No PORT Code (OSN),,
